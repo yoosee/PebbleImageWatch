@@ -1,0 +1,38 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "yoosee@gmail.com",
+    "enableMultiJS": false,
+    "longName": "ImageWatch",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/image-for-background.png",
+                "name": "IMAGE_BACKGROUND",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "characterRegex": "[0-9:. ]",
+                "file": "fonts/Coda-Heavy.ttf",
+                "name": "FONT_CLOCK_34",
+                "targetPlatforms": null,
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "ImageWatch",
+    "targetPlatforms": [
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "06bb51ba-05d5-4aa5-acd3-1a8d2cdcd2bc",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
